@@ -93,30 +93,30 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Quarto Academic, PhD",
+    "title": "Mariana Valério",
     "section": "",
-    "text": "Lab\n  \n  \n    \n     Uprofile\n  \n  \n    \n     E-mail\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     YouTube\n  \n  \n      ORCID\n  \n  \n      Web of Science\n  \n  \n      Scopus\n  \n  \n      Google Scholar\n  \n\n  \n  \nI’m a Quarto Academeic Website Template adapted by Dr. Gang He.\nI’m a template that you can fork to build your own website with easy adaptation and deployment.\n\nStar this repository to bookmark it for future reference.\n\nFork this repository and rename it to YourGitHubUserName.github.io.\n\nUpdate the _quarto.yml file to configure your site’s basic settings.\n\nAdd or edit content in the following files and folders:\n\n/posts/ – posts about publications, news, events\n\nteaching.qmd – teaching information\n\nprojects.yml – research or other projects\n\npeople.qmd and /people/ – team or collaborators\n\n/files/ - profiles, images, pdfs, and includes\n\nRender and preview your site locally.\n\nPublish your site using GitHub Pages (make sure configuring your GitHub repository to publish from the docs directory, not the root folder).\nRefine and polish your content and design as needed.\n\n✅ Enjoy your new website!\n\n\n\n\nResearcher, Univerisity\n\n\n\n\n\nPhD, Univerisity"
+    "text": "I am currently a Postdoctoral Researcher at the École Normale Supérieure de Lyon at the DAMM team within the LBMC laboratory.\nThe work I currently develop focuses on modeling and optimizing lipid nanoparticles (LNPs). LNPs comprise various lipid components, including ionizable lipids (ILs) that change protonation states based on environmental pH, cholesterol, helper lipids (typically phospholipids), and pegylated lipids.\nLipid-based drug delivery carriers have been successfully utilized in mRNA vaccines, such as those developed for COVID-19. Despite their effectiveness, mRNA delivery efficiency remains remarkably low. Intending to improve the delivery efficiency of these carriers, I am working under supervision of Dr. Paulo C. T. Souza, in collaboration with Sanofi Pasteur, to investigate the role of ionizable lipids in enhancing mRNA transfection using computational approaches using Martini 3 models."
   },
   {
     "objectID": "index.html#experience",
     "href": "index.html#experience",
-    "title": "Quarto Academic, PhD",
+    "title": "Mariana Valério",
     "section": "",
-    "text": "Researcher, Univerisity"
+    "text": "I am a Post Doc researcher"
   },
   {
     "objectID": "index.html#education",
     "href": "index.html#education",
-    "title": "Quarto Academic, PhD",
-    "section": "",
-    "text": "PhD, Univerisity"
+    "title": "Mariana Valério",
+    "section": "Education",
+    "text": "Education\n\nPhD in Biochemistry, Nova University of Lisbon, Portugal (2023)\n\nMSc in Biochemistry for Health, Nova University of Lisbon, Portugal (2019)\nBSc in Biochemistry, Lisbon University, Portugal (2016)"
   },
   {
     "objectID": "index.html#recent-posts",
     "href": "index.html#recent-posts",
-    "title": "Quarto Academic, PhD",
+    "title": "Mariana Valério",
     "section": "Recent Posts",
-    "text": "Recent Posts\nCheck out the latest  Papers ,  News ,  Events , and  More »\n\n\n\n\n\n\n\n\n\n\nQuarto Academic Website Examples and Tips\n\n\n\nOct 15, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nEvent item\n\n\n\nSep 3, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nNews item\n\n\n\nJun 24, 2024\n\n\n\n\n\n\nNo matching items\n\n\nAll Posts »"
+    "text": "Recent Posts\nCheck out my latest  Papers , \n\n\n\n\n\n\n\n\n\n\nQuarto Academic Website Examples and Tips\n\n\n\nOct 15, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nEvent item\n\n\n\nSep 3, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nNews item\n\n\n\nJun 24, 2024\n\n\n\n\n\n\nNo matching items\n\n\nAll Posts »"
   },
   {
     "objectID": "people.html",
@@ -138,5 +138,26 @@
     "title": "People",
     "section": "Alumni",
     "text": "Alumni\n\n\n   \n    \n    \n      Order By\n      Default\n      \n      \n      \n        Name\n      \n      \n        Role\n      \n      \n        Started\n      \n      \n        Ended\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n \n\n\n\nName\n\n\n\nRole\n\n\n\nStarted\n\n\n\nEnded\n\n\n\n\n\n\n\n\n\n\n\nAlumni A\n\n\nPhD Alumni\n\n\n2024\n\n\n2025\n\n\n\n\n\n\n\n\n\nAlumni B\n\n\nMasters Alumni\n\n\n2024\n\n\n2025\n\n\n\n\n\n\n\n\n\nAlumni C\n\n\nUndergraduate Alumni\n\n\n2024\n\n\n2025\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html#recent-publications",
+    "href": "index.html#recent-publications",
+    "title": "Mariana Valério",
+    "section": "Recent Publications",
+    "text": "Recent Publications\n\n\n\n\n\n\n\n\n\n\nEvent item\n\n\n\n\n\n\n\n\n\n\n\n\nQuarto Academic Website Examples and Tips\n\n\n\nOct 15, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nNews item\n\n\n\nJun 24, 2024\n\n\n\n\n\n\nNo matching items\n\n\nAll Posts »"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Mariana Valério",
+    "section": "",
+    "text": "I am currently a Postdoctoral Researcher at the École Normale Supérieure de Lyon at the DAMM team within the LBMC laboratory.\nThe work I currently develop focuses on modeling and optimizing lipid nanoparticles (LNPs). LNPs comprise various lipid components, including ionizable lipids (ILs) that change protonation states based on environmental pH, cholesterol, helper lipids (typically phospholipids), and pegylated lipids.\nLipid-based drug delivery carriers have been successfully utilized in mRNA vaccines, such as those developed for COVID-19. Despite their effectiveness, mRNA delivery efficiency remains remarkably low. Intending to improve the delivery efficiency of these carriers, I am working under supervision of Dr. Paulo C. T. Souza, in collaboration with Sanofi Pasteur, to investigate the role of ionizable lipids in enhancing mRNA transfection using computational approaches using Martini 3 models."
+  },
+  {
+    "objectID": "index.html#publications",
+    "href": "index.html#publications",
+    "title": "Mariana Valério",
+    "section": "Publications",
+    "text": "Publications\n\nOriginal Research\n\nKjølbye LR, Valério M, Paloncyova M, Borges-Araújo L et al., Martini 3 building blocks for Lipid Nanoparticle design, Preprint on ChemRxiv, 2024, doi;\nValério M, Borges-Araújo L, Melo MN, Lousa D, Soares CM, SARS-CoV-2 variants impact RBD conformational dynamics and ACE2 accessibility, Frontiers in Medical Technology, 2022, doi;\nValério M, Mendonça DA, Morais J, Buga CC, et al., Parainfluenza fusion peptide promotes membrane fusion by assembling into oligomeric pore-like structures, ACS Chemical Biology, 2022, doi;\nPires C, Marques IJ, Valério M, Saramago A, et al., CHEK2 germline variants identified in familial nonmedullary thyroid cancer lead to impaired protein structure and function, Journal of Biological Chemistry, 2022, doi;\nAlenquer M, Ferreira F, Lousa D, Valério M, et al., Signatures in SARS-CoV-2 spike protein conferring escape to neutralizing antibodies, PLOS Pathogens, 2021, doi.\n\n\n\nReviews\n\nPaloncýová M, Valério M, Dos Santos R, Kührová P, Šrejber M, Čechová P, Dobchev D, Balsubramani A, Banáš Pavel, Agarwal V, Souza PC, Otyepka Ml, Computational Methods for Modelling Lipid-Mediated Active Pharmaceutical Ingredient Delivery, Molecular Pharmaceutics 2025, doi; Borges-Araújo L, Pereira GP, Valério M, Souza PCT, Assessing the Martini 3 protein model: A review of its path and potential, Biochimica et Biophysica Acta (BBA) - Proteins and Proteomics 2024, doi;\nValério M, Buga CC, Melo MN Melo, Soares CM, Lousa D, Viral entry mechanisms: the role of molecular simulation in unlocking a key step in viral infections, FEBS Open Bio, 2024, doi."
   }
 ]
