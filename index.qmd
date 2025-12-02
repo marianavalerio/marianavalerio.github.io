@@ -1,7 +1,7 @@
 ---
-title: "Quarto Academic, PhD"
+title: "Mariana Valério"
 description-meta: "Quarto Academic Website Template adapted by Dr. Gang He"
-image: "files/images/placeholder4.JPG"
+image: "files/images/DSC06865_crop.jpg"
 page-navigation: false
 toc: false
 #sidebar: false
@@ -13,61 +13,61 @@ about:
   image-width: 70%
   links:
     - icon: sun
-      text: Lab
-      href: https://www.github.com
+      text: DAMM Team, ENS de Lyon
+      href: https://www.ens-lyon.fr/LBMC/equipes/dynamics-and-control-of-biological-assemblies-and-macromolecular-machines
       target: _blank
-    - icon: globe
-      text: Uprofile
-      href: https://baruch.cuny.edu
-      target: _blank
+    # - icon: globe
+    #   text: Uprofile
+    #   href: https://baruch.cuny.edu
+    #   target: _blank
     - icon: envelope
       text: E-mail
-      href: mailto:email@gmail.com    
+      href: mailto:mariana.valerio@ens-lyon.fr    
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
+      href: https://www.linkedin.com/in/mariana-val%C3%A9rio/
       target: _blank
-    - icon: youtube
-      text: YouTube
-      href: https://www.youtube.com     
-      target: _blank 
+    # - icon: youtube
+    #   text: YouTube
+    #   href: https://www.youtube.com     
+    #   target: _blank 
     - text: "{{< ai orcid >}} ORCID"   # use academic icons, "" are needed, you also need to install the fontawesome extension
-      href: https://orcid.org
+      href: https://orcid.org/my-orcid?orcid=0000-0001-7340-0134
       target: _blank
-    - text: "{{< ai clarivate >}} Web of Science"
-      href: https://www.webofscience.com  
-      target: _blank
-    - text: "{{< ai scopus >}} Scopus"
-      href: https://www.scopus.com
-      target: _blank
+    # - text: "{{< ai clarivate >}} Web of Science"
+    #   href: https://www.webofscience.com  
+    #   target: _blank
+    # - text: "{{< ai scopus >}} Scopus"
+    #   href: https://www.scopus.com
+    #   target: _blank
     - text: "{{< ai google-scholar >}} Google Scholar"
-      href: https://scholar.google.com
+      href: https://scholar.google.com/citations?user=651QBNIAAAAJ&hl=pt-PT
       target: _blank
 #    - text: "{{< ai researchgate >}} Research Gate"
 #      href: https://www.researchgate.net
 #      target: _blank
 
-listing:   # Comment the listing section and delete corresponding lines in the index.qmd file to remove the recent posts
-  - id: recent-posts
-    contents: 
-      - posts
-      - posts/post-links.yml
-    exclude:
-      title: ""
-    type: grid
-    max-items: 3
-#    image-height: 150px
-    page-size: 3 #set same as max-times to remove the page number setting
-    fields: [image, date, title, subtitle]
-    max-description-length: 75
-    sort: 
-      - "date desc"
-      - "title asc"
+# listing:   # Comment the listing section and delete corresponding lines in the index.qmd file to remove the recent posts
+#   - id: recent-posts
+#     contents: 
+#       - posts
+#       - posts/post-links.yml
+#     exclude:
+#       title: ""
+#     type: grid
+#     max-items: 3
+# #    image-height: 150px
+#     page-size: 3 #set same as max-times to remove the page number setting
+#     fields: [image, date, title, subtitle]
+#     max-description-length: 75
+#     sort: 
+#       - "date desc"
+#       - "title asc"
 ---
 
-:::{#hero-heading}
+<!-- :::{#hero-heading}
 
-I'm a [Quarto Academeic Website Template](https://github.com/drganghe/quarto-academic-website-template) adapted by [Dr. Gang He](http://drganghe.github.io).
+I'm a [Quarto Academic Website Template](https://github.com/drganghe/quarto-academic-website-template) adapted by [Dr. Gang He](http://drganghe.github.io).
 
 I'm a template that you can fork to build your own website with easy adaptation and deployment.
 
@@ -83,24 +83,46 @@ I'm a template that you can fork to build your own website with easy adaptation 
 1. [**Render and preview**](https://quarto.org/docs/websites/) your site locally.  
 1. [**Publish**](https://quarto.org/docs/publishing/github-pages.html) your site using GitHub Pages (make sure [configuring](https://quarto.org/docs/publishing/images/gh-pages-docs-dir.png) your GitHub repository to publish from the `docs` directory, not the `root` folder). 
 1. **Refine and polish** your content and design as needed.  
-1. ✅ Enjoy your new website!
+1. ✅ Enjoy your new website! -->
 
-## Experience
+## About me
 
-- Researcher, Univerisity
+I am currently a Postdoctoral Researcher at the École Normale Supérieure de Lyon at the DAMM team within the [LBMC laboratory](https://www.ens-lyon.fr/LBMC/). 
+
+The work I currently develop focuses on modeling and optimizing lipid nanoparticles (LNPs). LNPs comprise various lipid components, including ionizable lipids (ILs) that change protonation states based on environmental pH, cholesterol, helper lipids (typically phospholipids), and pegylated lipids. 
+
+Lipid-based drug delivery carriers have been successfully utilized in mRNA vaccines, such as those developed for COVID-19. Despite their effectiveness, mRNA delivery efficiency remains remarkably low. Intending to improve the delivery efficiency of these carriers, I am working under supervision of Dr. Paulo C. T. Souza, in collaboration with Sanofi Pasteur, to investigate the role of ionizable lipids in enhancing mRNA transfection using computational approaches using [Martini 3 models](https://www.nature.com/articles/s41592-021-01098-3).
+
 
 ## Education
 
-- PhD, Univerisity
+- PhD in Biochemistry, Nova University of Lisbon, Portugal (2023)  
+- MSc in Biochemistry for Health, Nova University of Lisbon, Portugal (2019) 
+- BSc in Biochemistry, Lisbon University, Portugal (2016)
 
-:::
+
+
+## Publications
+
+#### Original Research
+- Kjølbye LR, Valério M, Paloncyova M, Borges-Araújo L et al., Martini 3 building blocks for Lipid Nanoparticle design, Preprint on ChemRxiv, 2024, [doi](10.26434/chemrxiv-2024-bf4n8);
+- Valério M, Borges-Araújo L, Melo MN, Lousa D, Soares CM, SARS-CoV-2 variants impact RBD conformational dynamics and ACE2 accessibility, Frontiers in Medical Technology, 2022, [doi](10.3389/fmedt.2022.1009451);
+- Valério M*, Mendonça DA*, Morais J, Buga CC, et al., Parainfluenza fusion peptide promotes membrane fusion by assembling into oligomeric pore-like structures, ACS Chemical Biology, 2022, [doi](10.1021/acschembio.2c00208);
+- Pires C, Marques IJ, Valério M, Saramago A, et al., CHEK2 germline variants identified in familial nonmedullary thyroid cancer lead to impaired protein structure and function, Journal of Biological Chemistry, 2022, [doi](10.1016/j.jbc.2024.105767);
+- Alenquer M, Ferreira F, Lousa D, Valério M, et al., Signatures in SARS-CoV-2 spike protein conferring escape to neutralizing antibodies, PLOS Pathogens, 2021, [doi](10.1371/journal.ppat.1009772).
+
+#### Reviews
+- Paloncýová M, Valério M, Dos Santos R, Kührová P, Šrejber M, Čechová P, Dobchev D, Balsubramani A, Banáš Pavel, Agarwal V, Souza PC, Otyepka Ml, Computational Methods for Modelling Lipid-Mediated Active Pharmaceutical Ingredient Delivery, Molecular Pharmaceutics 2025, [doi](10.1021/acs.molpharmaceut.4c00744);
+Borges-Araújo L, Pereira GP, Valério M, Souza PCT, Assessing the Martini 3 protein model: A review of its path and potential, Biochimica et Biophysica Acta (BBA) - Proteins and Proteomics 2024, [doi](10.1016/j.bbapap.2024.141014);
+- Valério M, Buga CC, Melo MN Melo, Soares CM, Lousa D, Viral entry mechanisms: the role of molecular simulation in unlocking a key step in viral infections, FEBS Open Bio, 2024, [doi](10.1002/2211-5463.13908).
 
 
 <!-- Delete the following section and delete corresponding lines in the yaml part to remove the recent posts -->
-## Recent Posts
-Check out the latest &nbsp;[Papers](posts.qmd#category=paper)&nbsp;, &nbsp;[News](posts.qmd#category=news)&nbsp;, &nbsp;[Events](posts.qmd#category=event)&nbsp;, and &nbsp;[More »](/posts.qmd)
-
+<!-- ## Recent Publications
+<!-- Check out my latest &nbsp;[Papers](posts.qmd#category=paper)&nbsp; -->
+<!-- &nbsp;[News](posts.qmd#category=news)&nbsp;, &nbsp;[Events](posts.qmd#category=event)&nbsp;, and &nbsp;[More »](/posts.qmd) -->
+<!-- 
 :::{#recent-posts}
 :::
 
-<p align="right">[All Posts »](/posts.qmd)</p>
+<!-- <p align="right">[All Posts »](/posts.qmd)</p> --> 
