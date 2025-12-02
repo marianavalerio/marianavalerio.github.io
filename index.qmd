@@ -105,16 +105,16 @@ Lipid-based drug delivery carriers have been successfully utilized in mRNA vacci
 ## Publications
 
 #### Original Research
-- Kjølbye LR, Valério M, Paloncyova M, Borges-Araújo L et al., Martini 3 building blocks for Lipid Nanoparticle design, Preprint on ChemRxiv, 2024, [doi](10.26434/chemrxiv-2024-bf4n8);
-- Valério M, Borges-Araújo L, Melo MN, Lousa D, Soares CM, SARS-CoV-2 variants impact RBD conformational dynamics and ACE2 accessibility, Frontiers in Medical Technology, 2022, [doi](10.3389/fmedt.2022.1009451);
-- Valério M*, Mendonça DA*, Morais J, Buga CC, et al., Parainfluenza fusion peptide promotes membrane fusion by assembling into oligomeric pore-like structures, ACS Chemical Biology, 2022, [doi](10.1021/acschembio.2c00208);
+- Kjølbye LR, Valério M, Paloncyova M, Borges-Araújo L et al., Martini 3 building blocks for Lipid Nanoparticle design, Preprint on ChemRxiv, 2024, [doi](https://doi.org/10.26434/chemrxiv-2024-bf4n8-v2);
+- Valério M, Borges-Araújo L, Melo MN, Lousa D, Soares CM, SARS-CoV-2 variants impact RBD conformational dynamics and ACE2 accessibility, Frontiers in Medical Technology, 2022, [doi](https://doi.org/10.3389/fmedt.2022.1009451);
+- Valério M*, Mendonça DA*, Morais J, Buga CC, et al., Parainfluenza fusion peptide promotes membrane fusion by assembling into oligomeric pore-like structures, ACS Chemical Biology, 2022, [doi](https://doi.org/10.1021/acschembio.2c00208);
 - Pires C, Marques IJ, Valério M, Saramago A, et al., CHEK2 germline variants identified in familial nonmedullary thyroid cancer lead to impaired protein structure and function, Journal of Biological Chemistry, 2022, [doi](10.1016/j.jbc.2024.105767);
-- Alenquer M, Ferreira F, Lousa D, Valério M, et al., Signatures in SARS-CoV-2 spike protein conferring escape to neutralizing antibodies, PLOS Pathogens, 2021, [doi](10.1371/journal.ppat.1009772).
+- Alenquer M, Ferreira F, Lousa D, Valério M, et al., Signatures in SARS-CoV-2 spike protein conferring escape to neutralizing antibodies, PLOS Pathogens, 2021, [doi](https://doi.org/10.1371/journal.ppat.1009772).
 
 #### Reviews
-- Paloncýová M, Valério M, Dos Santos R, Kührová P, Šrejber M, Čechová P, Dobchev D, Balsubramani A, Banáš Pavel, Agarwal V, Souza PC, Otyepka Ml, Computational Methods for Modelling Lipid-Mediated Active Pharmaceutical Ingredient Delivery, Molecular Pharmaceutics 2025, [doi](10.1021/acs.molpharmaceut.4c00744);
-Borges-Araújo L, Pereira GP, Valério M, Souza PCT, Assessing the Martini 3 protein model: A review of its path and potential, Biochimica et Biophysica Acta (BBA) - Proteins and Proteomics 2024, [doi](10.1016/j.bbapap.2024.141014);
-- Valério M, Buga CC, Melo MN Melo, Soares CM, Lousa D, Viral entry mechanisms: the role of molecular simulation in unlocking a key step in viral infections, FEBS Open Bio, 2024, [doi](10.1002/2211-5463.13908).
+- Paloncýová M, Valério M, Dos Santos R, Kührová P, Šrejber M, Čechová P, Dobchev D, Balsubramani A, Banáš Pavel, Agarwal V, Souza PC, Otyepka Ml, Computational Methods for Modelling Lipid-Mediated Active Pharmaceutical Ingredient Delivery, Molecular Pharmaceutics 2025, [doi](https://doi.org/10.1021/acs.molpharmaceut.4c00744);
+Borges-Araújo L, Pereira GP, Valério M, Souza PCT, Assessing the Martini 3 protein model: A review of its path and potential, Biochimica et Biophysica Acta (BBA) - Proteins and Proteomics 2024, [doi](https://doi.org/10.1016/j.bbapap.2024.141014);
+- Valério M, Buga CC, Melo MN Melo, Soares CM, Lousa D, Viral entry mechanisms: the role of molecular simulation in unlocking a key step in viral infections, FEBS Open Bio, 2024, [doi](https://doi.org/10.1002/2211-5463.13908).
 
 
 <!-- Delete the following section and delete corresponding lines in the yaml part to remove the recent posts -->
